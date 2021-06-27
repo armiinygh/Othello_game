@@ -1,5 +1,5 @@
-# Othello_game
-othello game implemention AI
+# Othello_game 
+othello game implemention AI using minmax with alpha-betha pruning
          Othello (Reversi)
 Supervisor: Prof. Alireza Salimi Badr
 Project by Alireza Amini and Seyed Alireza Yaghoubi
