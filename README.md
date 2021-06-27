@@ -1,6 +1,7 @@
 # Othello_game 
 othello game implemention AI using minmax with alpha-betha pruning
          Othello (Reversi)    
+         
     Introduction:
 Reversi is a strategy board game
 uncheckered board. It was invented in 1883.
