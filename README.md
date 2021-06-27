@@ -1,10 +1,6 @@
 # Othello_game 
 othello game implemention AI using minmax with alpha-betha pruning
-         Othello (Reversi)
-Supervisor: Prof. Alireza Salimi Badr
-Project by Alireza Amini and Seyed Alireza Yaghoubi
-Autumn Semester of 2020
-    
+         Othello (Reversi)    
     Introduction:
 Reversi is a strategy board game
 uncheckered board. It was invented in 1883.
